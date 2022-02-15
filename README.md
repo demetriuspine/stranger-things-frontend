@@ -10,4 +10,4 @@ Aqui você vai encontrar os locais para colocar suas repostas relativas aos requ
     adiciona as variaveis de ambiente no site heroku; settings - reveal config vars
   ###### git push heroku lucas-pine-stranger-things-frontend:master
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-014-b-stranger-things) em que os requisitos do projeto são destrinchados.
+**Nota**: Este direcionamento está presente no [repositório](https://github.com/demetriuspine/stranger-things) em que os requisitos do projeto são destrinchados.
