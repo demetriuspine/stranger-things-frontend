@@ -6,4 +6,8 @@ Aqui você vai encontrar os locais para colocar suas repostas relativas aos requ
 
   - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
 
+  ###### heroku create demetriuspine-ft --buildpack mars/create-react-app
+    adiciona as variaveis de ambiente no site heroku; settings - reveal config vars
+  ###### git push heroku lucas-pine-stranger-things-frontend:master
+
 **Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-014-b-stranger-things) em que os requisitos do projeto são destrinchados.
