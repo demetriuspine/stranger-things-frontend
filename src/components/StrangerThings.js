@@ -1,4 +1,4 @@
-import { config } from 'dotenv';
+import { config } from 'dotenv'; // adaptado de https://dev.to/agamm/how-to-use-express-js-with-dotenv-and-es6-modules-3d9
 import React from 'react';
 import CharactersService from '../services/charactersAPI';
 import Table from './Table';
